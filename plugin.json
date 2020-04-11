@@ -5,7 +5,7 @@
     "description": "PHP library to generate PDF documents and barcodes",
     "keywords": "PDF",
     "author": "David Hein",
-    "version": "0.1",
+    "version": "0.2",
     "type": "LibPlugin",
     "requiredBMVersion": "0.1"
 }
